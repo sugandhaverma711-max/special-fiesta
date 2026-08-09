@@ -37,7 +37,3 @@ This project was built as hands-on practice for the **Microsoft Power BI Data An
 ## Files
 
 - `YOY_and_Growth_analysis.pbix` — Power BI report file (open in Power BI Desktop to explore interactively)
-
-## About
-
-Built by Sugandha Verma as part of ongoing Power BI practice — see [Retail Profitability & Growth Strategy](https://github.com/sugandhaverma711-max/Retail-Profitability-Growth-Strategy) for a full end-to-end business analytics project.
